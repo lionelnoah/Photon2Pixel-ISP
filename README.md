@@ -15,12 +15,12 @@ Photon
 # 📷 ISP Learning Roadmap
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Modules-15-6366f1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Modules"/>
+  <a href="https://lionelnoah.github.io/Photon2Pixel-ISP/">
+    <img src="https://img.shields.io/badge/Modules-15-6366f1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Modules"/>
+  </a>
   <img src="https://img.shields.io/badge/Level-Beginner%20→%20Expert-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Level"/>
   <img src="https://img.shields.io/badge/Topics-Physics%20|%20ISP%20|%20AI-ec4899?style=for-the-badge&logo=camera&logoColor=white" alt="Topics"/>
 </p>
-
----
 
 ## 🗺️ Roadmap Overview
 
