@@ -14,8 +14,6 @@ Photon
 
 # 📷 ISP Learning Roadmap
 
-> **From Photons to Pixels** — A comprehensive journey through the modern camera Image Signal Processing pipeline.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Modules-15-6366f1?style=for-the-badge&logo=bookstack&logoColor=white" alt="Modules"/>
   <img src="https://img.shields.io/badge/Level-Beginner%20→%20Expert-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Level"/>
