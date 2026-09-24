@@ -136,8 +136,6 @@ flowchart TD
     style L6 fill:transparent,stroke:#8b5cf6,stroke-width:2px,stroke-dasharray:5 5,color:#8b5cf6
 ```
 
----
-
 ## 📋 Module Details
 
 | # | Module | Category | Description | Prerequisites |
@@ -157,8 +155,6 @@ flowchart TD
 | 13 | **Tone Mapping** | 🎛️ Pipeline | 全局 / 局部色调映射、Reinhard、ACES 曲线 | 09, 12 |
 | 14 | **Computational Photography** | 📐 Advanced | 超分辨率、夜景模式、景深模拟、全景拼接 | 13 |
 | 15 | **AI ISP** | 🤖 AI | 端到端神经网络 ISP、learned demosaicing / denoising | 10, 11, 14 |
-
----
 
 ## 🛤️ Suggested Learning Path
 
@@ -189,8 +185,6 @@ flowchart TD
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
-
----
 
 <p align="center">
   <b>⭐ Star this repo if it helps your learning journey!</b><br/>
